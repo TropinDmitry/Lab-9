@@ -1,0 +1,31 @@
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+E:\Lab11\Lab11\obj\Debug\Lab11.csproj.SuggestedBindingRedirects.cache
+E:\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Lab11\Lab11\obj\Debug\Lab11.pdb
